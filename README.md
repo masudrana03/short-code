@@ -1,24 +1,7 @@
-# Axios
-A brief description of what this project does and who it's for
+## Short Code List
 
-## Post request
-```javascript
-const formData = new FormData();
-formData.append('key', value);
+ - [Axios Readme ](https://github.com/masudrana03/shot-code/blob/master/Axios.md)
+ - [Jquery Readme](https://github.com/matiassingers/awesome-readme)
 
-axios({
-    method: 'post',
-    url: '{{ route('route.name') }}',
-    headers: {
-        'Content-Type': 'multipart/form-data',
-        'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
-    },
-    data: formData
-})
-.then(function(response) {
-    console.log(response.data);
-})
-.catch(function(error) {
-     console.log(error);
-});
-```
+#### Laravel Section
+ - [Lravel Readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
