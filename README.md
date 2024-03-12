@@ -1,6 +1,6 @@
 ## Short Code List
 
- - [ Axios ](https://github.com/masudrana03/shot-code/blob/master/Axios.md)
+ - [ Axios ](https://github.com/masudrana03/short-code/blob/master/Axios.md)
  - [ Jquery ](https://github.com/matiassingers/awesome-readme)
 
 #### Laravel Section
