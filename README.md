@@ -3,7 +3,7 @@
  - [ Axios ](https://github.com/masudrana03/short-code/blob/master/Axios.md)
  - [ Jquery ](https://github.com/matiassingers/awesome-readme)
 
-#### Laravel Section
+#### Linux Section
  - [ Linux ](https://github.com/matiassingers/awesome-readme)
 
 #### Laravel Section
