@@ -8,7 +8,7 @@ All Linux need comand:
 Run .dev file:
 
 ```bash
-  sudo dpkg -i /path/to/yourfile.deb
+sudo dpkg -i /path/to/yourfile.deb
 ```
 <!-- 
 Using bower:
