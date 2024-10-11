@@ -2,9 +2,9 @@
 
 ## Short Code List
 
-| Name       | Links                          | 
-|---------------|--------------------------------------|
-| Axios | [ Axios ](https://github.com/masudrana03/short-code/blob/master/readme/axios.md) | 
+| Name       | Links                          | Name     | Links |
+|---------------|--------------------------------------|-------------|----------|
+| Axios | [ Axios ](https://github.com/masudrana03/short-code/blob/master/readme/axios.md) | Bash | [ Axios ](https://github.com/masudrana03/short-code/blob/master/readme/bash.md)
 | Jquery | [ Jquery ](https://github.com/masudrana03/short-code/blob/master/readme/jquery.md) |
 | Linux |  [ Linux ](https://github.com/masudrana03/short-code/blob/master/readme/linux.md) |
 | Laravel | [ Laravel ](https://github.com/masudrana03/short-code/blob/master/readme/laravel.md) |
