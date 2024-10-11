@@ -20,8 +20,15 @@ Single Commands:
 
 One Click Command:
 
+### with vs code open
+
 ```bash
-  git clone git@github.com:masudrana03/short-code.git && cd short-code && code .
+git clone git@github.com:masudrana03/short-code.git && cd short-code && code .
+```
+### without vs code open
+
+```bash
+git clone git@github.com:masudrana03/short-code.git && cd short-code
 ```
 
 
