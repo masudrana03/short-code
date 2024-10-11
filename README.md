@@ -1,10 +1,39 @@
+# GitHub repo action
+Hare is github action command.
+
+## Command :
+
+Single Commands:
+
+```bash
+  git clone git@github.com:masudrana03/short-code.git
+```
+
+
+```bash
+  cd short-code
+```
+
+```bash
+  code .
+```
+
+One Click Command:
+
+```bash
+  git clone git@github.com:masudrana03/short-code.git && cd short-code && code .
+```
+
+
+
 ## Short Code List
 
- - [ Axios ](https://github.com/masudrana03/short-code/blob/master/Axios.md)
- - [ Jquery ](https://github.com/matiassingers/awesome-readme)
 
-#### Linux Section
- - [ Linux ](https://github.com/masudrana03/short-code/blob/master/Linux.md)
 
-#### Laravel Section
- - [ Lravel ](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+| Name       | Links                          | 
+|---------------|--------------------------------------|
+| Axios | [ Axios ](https://github.com/masudrana03/short-code/blob/master/readme/axios.md) | 
+| Jquery | [ Jquery ](https://github.com/masudrana03/short-code/blob/master/readme/jquery.md) |
+| Linux |  [ Linux ](https://github.com/masudrana03/short-code/blob/master/readme/linux.md) |
+| Laravel | [ Laravel ](https://github.com/masudrana03/short-code/blob/master/readme/laravel.md) |
+| Larvael Project List | [ Laravel Project List ](https://github.com/masudrana03/short-code/blob/master/readme/laravel-project-list.md) |
