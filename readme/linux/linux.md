@@ -2,6 +2,25 @@
 All Linux need comand:
 
 
+## Navigation
+
+| Name  | Name  | 
+|-------|-------|
+| [ flameshot ](https://github.com/masudrana03/short-code/blob/master/readme/linux/flameshot.md) | [ gnome ](https://github.com/masudrana03/short-code/blob/master/readme/linux/gnome.md) |
+| [ Jquery ](https://github.com/masudrana03/short-code/blob/master/readme/jquery.md) | [ VS Code ](https://github.com/masudrana03/short-code/blob/master/readme/vscode.md) |
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Run deb file
 
