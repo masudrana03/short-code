@@ -34,6 +34,9 @@ Current folder zipe and remove all
 ```bash
 zip -r archive.zip ./* ./.??* && find . -type f ! -name "archive.zip" -delete && find . -type d -empty -delete
 ```
+```bash
+zip -r -P 1234 archive.zip ./* ./.??* && find . -type f ! -name "archive.zip" -delete && find . -type d -empty -delete
+```
 
 
 
